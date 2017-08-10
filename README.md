@@ -1,9 +1,9 @@
-## Collection of Notes for Instructor Lessons
+## Collection of Notes for Instructor lessons
 
-### AngularJS 4
+### AngularJS 2
 
 
 ### Dot Net
 
-- [Tips & Tricks : Dot Net](docs/DotNetCore/00_Tips&Tricks.md)
+- [Tips & Tricks : Dot Net](00_TipsNTricks.md)
 
