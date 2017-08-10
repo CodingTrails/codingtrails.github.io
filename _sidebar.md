@@ -7,7 +7,7 @@
 	- [DataBindings](Angular\03_DataBindings.md)
 	- [StructuralDirectives](Angular\04_StructuralDirectives.md)
 	- [ImportantLinks](Angular\097_ImportantLinks.md)
-	- [Dos Commands](Angular\098_Dos Commands.md)
+	- [Dos Commands] (Angular\098_Dos Commands.md)
 	- [Angular-cli](Angular\099_Angular-cli.md)
 - [DotNet Core](DotNetCore\00_Tips&Tricks.md)
 - [Python](Python\Django.md)
