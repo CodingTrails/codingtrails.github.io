@@ -1,6 +1,6 @@
-## Collection of Notes for Instructor Lessons
+## Collection of Notes for Instructor lessons
 
-### Angular
+### AngularJS 2
 
 
 ### Dot Net
