@@ -1,4 +1,4 @@
-## Collection of Notes for Instructor lessons
+## Collection of Notes for Instructor lessons v3
 
 ### AngularJS 2
 
